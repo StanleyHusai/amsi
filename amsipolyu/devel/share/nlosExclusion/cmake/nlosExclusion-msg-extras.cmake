@@ -1,0 +1,2 @@
+set(nlosExclusion_MESSAGE_FILES "/home/husai/amsipolyu/src/nlosExclusion/msg/GNSS_Raw.msg;/home/husai/amsipolyu/src/nlosExclusion/msg/GNSS_Raw_Array.msg;/home/husai/amsipolyu/src/nlosExclusion/msg/DOP.msg;/home/husai/amsipolyu/src/nlosExclusion/msg/Satellite_Info.msg;/home/husai/amsipolyu/src/nlosExclusion/msg/exclusionSatNum.msg;/home/husai/amsipolyu/src/nlosExclusion/msg/Error.msg")
+set(nlosExclusion_SERVICE_FILES "")

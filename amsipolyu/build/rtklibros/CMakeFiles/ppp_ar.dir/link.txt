@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libppp_ar.so -o /home/husai/amsipolyu/devel/lib/libppp_ar.so CMakeFiles/ppp_ar.dir/src/ppp_ar.c.o 

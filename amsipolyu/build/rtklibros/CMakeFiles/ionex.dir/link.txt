@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libionex.so -o /home/husai/amsipolyu/devel/lib/libionex.so CMakeFiles/ionex.dir/src/ionex.c.o 

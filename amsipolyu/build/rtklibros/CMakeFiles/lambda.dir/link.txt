@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,liblambda.so -o /home/husai/amsipolyu/devel/lib/liblambda.so CMakeFiles/lambda.dir/src/lambda.c.o 

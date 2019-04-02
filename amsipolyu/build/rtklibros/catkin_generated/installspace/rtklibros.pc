@@ -1,0 +1,8 @@
+prefix=/home/husai/amsipolyu/install
+
+Name: rtklibros
+Description: Description of rtklibros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/husai/amsipolyu/install/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libephemeris.so -o /home/husai/amsipolyu/devel/lib/libephemeris.so CMakeFiles/ephemeris.dir/src/ephemeris.c.o 

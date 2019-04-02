@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libconvkml.so -o /home/husai/amsipolyu/devel/lib/libconvkml.so CMakeFiles/convkml.dir/src/convkml.c.o 

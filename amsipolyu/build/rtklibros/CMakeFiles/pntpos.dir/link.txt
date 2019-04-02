@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libpntpos.so -o /home/husai/amsipolyu/devel/lib/libpntpos.so CMakeFiles/pntpos.dir/src/pntpos.c.o /home/husai/amsipolyu/devel/lib/libionex.so -Wl,-rpath,/home/husai/amsipolyu/devel/lib 

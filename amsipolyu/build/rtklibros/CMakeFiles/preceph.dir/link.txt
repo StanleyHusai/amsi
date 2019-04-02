@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libpreceph.so -o /home/husai/amsipolyu/devel/lib/libpreceph.so CMakeFiles/preceph.dir/src/preceph.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libgeoid.so -o /home/husai/amsipolyu/devel/lib/libgeoid.so CMakeFiles/geoid.dir/src/geoid.c.o 

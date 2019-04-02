@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,librtcm2.so -o /home/husai/amsipolyu/devel/lib/librtcm2.so CMakeFiles/rtcm2.dir/src/rtcm2.c.o 

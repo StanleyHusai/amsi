@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libqzslex.so -o /home/husai/amsipolyu/devel/lib/libqzslex.so CMakeFiles/qzslex.dir/src/qzslex.c.o 

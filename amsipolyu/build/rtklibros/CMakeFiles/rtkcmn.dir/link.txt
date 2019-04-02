@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,librtkcmn.so -o /home/husai/amsipolyu/devel/lib/librtkcmn.so CMakeFiles/rtkcmn.dir/src/rtkcmn.c.o 

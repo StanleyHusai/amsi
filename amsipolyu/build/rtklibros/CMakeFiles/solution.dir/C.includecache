@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/husai/amsipolyu/src/rtklibros/src/rtklib.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+string.h
+-
+math.h
+-
+time.h
+-
+ctype.h
+-
+winsock2.h
+-
+windows.h
+-
+pthread.h
+-
+
+/home/husai/amsipolyu/src/rtklibros/src/solution.c
+ctype.h
+-
+rtklib.h
+/home/husai/amsipolyu/src/rtklibros/src/rtklib.h
+

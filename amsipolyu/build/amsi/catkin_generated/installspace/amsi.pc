@@ -1,0 +1,8 @@
+prefix=/home/husai/amsipolyu/install
+
+Name: amsi
+Description: Description of amsi
+Version: 0.0.0
+Cflags: -I/home/husai/amsipolyu/install/include
+Libs: -L/home/husai/amsipolyu/install/lib 
+Requires: 

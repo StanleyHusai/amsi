@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libstream.so -o /home/husai/amsipolyu/devel/lib/libstream.so CMakeFiles/stream.dir/src/stream.c.o 

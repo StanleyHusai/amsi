@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,librinex.so -o /home/husai/amsipolyu/devel/lib/librinex.so CMakeFiles/rinex.dir/src/rinex.c.o 

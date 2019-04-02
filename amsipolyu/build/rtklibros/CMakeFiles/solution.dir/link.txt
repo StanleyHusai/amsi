@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,libsolution.so -o /home/husai/amsipolyu/devel/lib/libsolution.so CMakeFiles/solution.dir/src/solution.c.o 

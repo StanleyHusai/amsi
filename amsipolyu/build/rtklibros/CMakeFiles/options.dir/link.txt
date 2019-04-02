@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,liboptions.so -o /home/husai/amsipolyu/devel/lib/liboptions.so CMakeFiles/options.dir/src/options.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -fopenmp -O3 -DNDEBUG    -shared -Wl,-soname,librtcm3.so -o /home/husai/amsipolyu/devel/lib/librtcm3.so CMakeFiles/rtcm3.dir/src/rtcm3.c.o 

@@ -1,0 +1,2 @@
+amsi:nlosExclusion:rtklibros
+-DCATKIN_DEVEL_PREFIX=/home/husai/amsipolyu/devel -DCMAKE_INSTALL_PREFIX=/home/husai/amsipolyu/install -G Unix Makefiles
